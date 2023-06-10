@@ -24,7 +24,9 @@ Komponente kompilieren (inkl. Erzeugung Doku):
 ```
 npm run build
 ```
-Das Kompilat wird im Verzeichnis `dist/` abgelegt.
+Das Kompilat wird im Verzeichnis `dist/` abgelegt, die Doku in Form der Datei `readme.me`
+im Ordner mit dem Quellcode der Komponente, also
+[`src/components/hallo-name/readme.md`](src/components/hallo-name/readme.md).
 
 <br>
 
