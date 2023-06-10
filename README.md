@@ -9,6 +9,24 @@ dem Compiler für Web-Komponenten von [Ionic](ionicframework.com/).
 
 ----
 
+## Demo via GitHub Pages ##
+
+<br>
+
+Im [docs/](docs)-Ordner dieses Repos befindet sich eine einfache HTML-Datei, die die kompilierte Komponente
+verwendet. Diese Seite wird über [GitHub Pages](https://pages.github.com/) unter der folgenden URL bereitgestellt:
+
+https://mdecker-mobilecomputing.github.io/WebComponent_HalloName/
+
+<br>
+
+Wenn das Komponente mit `npm run build` neu kompiliert wurde, dann muss der Ordner `dist/` mit dem neuen
+Kompilat in den `docs/`-Ordner kopiert werden.
+
+<br>
+
+----
+
 ## Befehle ##
 
 <br>
