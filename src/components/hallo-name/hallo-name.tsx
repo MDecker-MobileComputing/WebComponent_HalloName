@@ -28,7 +28,7 @@ export class HalloName {
    */
   render() {
 
-    return <div>Hallo {this.getVollerName()}!</div>;
+    return <div>Hallo <i>{this.getVollerName()}</i>!</div>;
   }
 
 }
