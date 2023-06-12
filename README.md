@@ -31,7 +31,7 @@ Kompilat in den `docs/`-Ordner kopiert werden.
 
 <br>
 
-Kleinen Web-Server mit Testseite, der Komponente enthält, starten:
+Kleinen Web-Server mit Testseite, welche die Komponente enthält, starten:
 ```
 npm start
 ```
